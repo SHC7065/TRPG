@@ -1,0 +1,14 @@
+C:\Practice\TEXTRPG\TEXTRPG\bin\Debug\net8.0\TEXTRPG.exe
+C:\Practice\TEXTRPG\TEXTRPG\bin\Debug\net8.0\TEXTRPG.deps.json
+C:\Practice\TEXTRPG\TEXTRPG\bin\Debug\net8.0\TEXTRPG.runtimeconfig.json
+C:\Practice\TEXTRPG\TEXTRPG\bin\Debug\net8.0\TEXTRPG.dll
+C:\Practice\TEXTRPG\TEXTRPG\bin\Debug\net8.0\TEXTRPG.pdb
+C:\Practice\TEXTRPG\TEXTRPG\obj\Debug\net8.0\TEXTRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\TEXTRPG\TEXTRPG\obj\Debug\net8.0\TEXTRPG.AssemblyInfoInputs.cache
+C:\Practice\TEXTRPG\TEXTRPG\obj\Debug\net8.0\TEXTRPG.AssemblyInfo.cs
+C:\Practice\TEXTRPG\TEXTRPG\obj\Debug\net8.0\TEXTRPG.csproj.CoreCompileInputs.cache
+C:\Practice\TEXTRPG\TEXTRPG\obj\Debug\net8.0\TEXTRPG.dll
+C:\Practice\TEXTRPG\TEXTRPG\obj\Debug\net8.0\refint\TEXTRPG.dll
+C:\Practice\TEXTRPG\TEXTRPG\obj\Debug\net8.0\TEXTRPG.pdb
+C:\Practice\TEXTRPG\TEXTRPG\obj\Debug\net8.0\TEXTRPG.genruntimeconfig.cache
+C:\Practice\TEXTRPG\TEXTRPG\obj\Debug\net8.0\ref\TEXTRPG.dll
